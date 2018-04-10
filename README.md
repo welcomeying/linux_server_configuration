@@ -4,9 +4,9 @@ Project 6 of the **Udacity Full Stack Web Developer Nanodegree**
 ## About the project
 Take a baseline installation of a Linux server and prepare it to host your web applications. You will secure your server from a number of attack vectors, install and configure a database server, and deploy one of your existing web applications onto it.
 
-- IP address: 18.216.200.133
+- IP address: ~~18.216.200.133~~ No Longer Available
 - Accessible SSH port: 2200
-- AWS-Server: http://ec2-18-216-200-133.us-east-2.compute.amazonaws.com
+- AWS-Server: ~~http://ec2-18-216-200-133.us-east-2.compute.amazonaws.com~~ No Longer Available
 - Loginin as grader: SSH key can be found in the "Notes to Reviewer" field, command to access server: 
 `ssh grader@34.214.154.162 -p 2200 -i grader`
 
@@ -153,4 +153,4 @@ Source: http://flask.pocoo.org/docs/0.12/deploying/mod_wsgi/
 - Enable the virtual host:
 `sudo service apache2 reload`
 `sudo a2ensite catalog`
-- Visit site at http://18.216.200.133
+- Visit site at ~~http://18.216.200.133~~ No Longer Available
